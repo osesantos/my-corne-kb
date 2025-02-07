@@ -1,6 +1,8 @@
 # my-corne-kb
 This is my current corne keyboard config, using qmk
 
+![image](https://github.com/user-attachments/assets/84e2e3a7-2976-4122-8504-55c4369ff876)
+
 **corne - corne aurora rev1.0**
 
 ## utils
